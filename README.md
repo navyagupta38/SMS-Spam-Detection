@@ -1,0 +1,1 @@
+ A machine learning model to classify SMS messages as spam or ham using the SMS Spam Collection dataset. Applied NLP techniques like tokenization and TF-IDF vectorization, and trained a Naive Bayes classifier. Achieved over 95% accuracy. Tools used include Python, Scikit-learn, Pandas, NumPy, Matplotlib and Seaborn.
